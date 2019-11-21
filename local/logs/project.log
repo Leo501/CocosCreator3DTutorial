@@ -1,0 +1,217 @@
+2019-11-21 11:04:00-log: preferences@1.0.0 enable
+2019-11-21 11:04:34-log: Parse [E:/CocosCreator3D_1.0.1/resources/resources/3d/engine/index.ts] : walk 481  files.
+2019-11-21 11:04:34-log: Parse [E:/CocosCreator3D_1.0.1/resources/resources/3d/engine/index.ts]: 33685.168ms
+2019-11-21 11:04:34-log: QuickCompiler compileFinished: 56.018ms
+2019-11-21 11:04:34-log: QuickCompiler rebuild finished: 34221.683ms
+2019-11-21 11:04:34-log: engine@1.0.0 enable
+2019-11-21 11:04:34-log: asset-db@1.0.0 enable
+2019-11-21 11:04:34-log: console@1.0.0 enable
+2019-11-21 11:04:34-log: scene@1.0.0 enable
+2019-11-21 11:04:35-log: ui-kit@1.0.0 enable
+2019-11-21 11:04:35-log: assets@1.0.0 enable
+2019-11-21 11:04:35-log: inspector@1.0.0 enable
+2019-11-21 11:04:35-log: hierarchy@1.0.0 enable
+2019-11-21 11:04:35-log: packager@1.0.0 enable
+2019-11-21 11:04:35-log: project-setting@1.0.0 enable
+2019-11-21 11:04:35-log: preview@1.0.0 enable
+2019-11-21 11:04:35-log: builder@1.0.0 enable
+2019-11-21 11:04:35-log: animator@1.0.0 enable
+2019-11-21 11:04:35-log: about@1.0.0 enable
+2019-11-21 11:04:35-log: tester@1.0.0 enable
+2019-11-21 11:04:35-log: ipc@1.0.0 enable
+2019-11-21 11:04:35-log: profile@1.0.0 enable
+2019-11-21 11:04:53-warn: [Scene] Please specifiy a default value for "ShootMgr" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 bullet
+2019-11-21 11:04:53-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:04:53-warn: [Scene] Please specifiy a default value for "shoot" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 bullet
+2019-11-21 11:04:53-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "shoot" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:05:58-warn: [Scene] Please specifiy a default value for "shoot" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 bullet
+2019-11-21 11:05:58-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "shoot" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:06:41-warn: [Scene] Please specifiy a default value for "ShootMgr" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 bullet
+2019-11-21 11:06:41-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:07:23-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:07:38-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:14:03-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:15:05-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 11:15:12-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 11:16:15-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:21:50-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:21:53-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:24:55-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:28:56-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:32:20-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:33:33-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:33:39-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:34:37-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:35:27-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:35:37-warn: [Scene] Please do not specifiy "default" attribute in decorator of "speed" property in "ShootMgr" class.
+Default value must be initialized at their declaration:
+ 
+// Before:
+@property({ default: 0 }) // <-- 
+@integer
+value;
+// After:
+@integer
+value = 0;    // <--
+2019-11-21 11:35:58-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:36:24-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:38:45-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Block.prefab) saved
+2019-11-21 11:38:47-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Block.prefab) saved
+2019-11-21 11:39:32-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Block.prefab) saved
+2019-11-21 11:42:39-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:42:49-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:43:04-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:43:12-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:43:20-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:44:40-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:45:58-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:47:52-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:48:35-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:49:45-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Block.prefab) saved
+2019-11-21 11:49:51-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 11:49:52-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 11:51:21-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 11:55:53-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:56:04-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:56:18-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:56:29-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 11:58:24-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 14:15:05-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 14:21:06-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 14:22:15-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 15:11:56-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 15:12:56-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 15:24:59-warn: [Scene] Value dump failed.
+2019-11-21 15:24:59-warn: [Scene] TypeError: Cannot read property 'constructor' of null
+2019-11-21 15:25:07-warn: [Scene] Value dump failed.
+2019-11-21 15:25:07-warn: [Scene] TypeError: Cannot read property 'constructor' of null
+2019-11-21 15:25:17-info: asset(E:\CreatorProject\Block3dDemo\assets\New Scene.scene) saved
+2019-11-21 15:36:52-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 15:45:05-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 15:45:48-warn: [Scene] Value dump failed.
+2019-11-21 15:45:48-warn: [Scene] TypeError: Cannot read property 'constructor' of null
+2019-11-21 15:45:48-warn: [Scene] Value dump failed.
+2019-11-21 15:45:48-warn: [Scene] TypeError: Cannot read property 'constructor' of null
+2019-11-21 15:46:13-warn: [Scene] Value dump failed.
+2019-11-21 15:46:13-warn: [Scene] TypeError: Cannot read property 'constructor' of null
+2019-11-21 15:46:19-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 15:48:03-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved
+2019-11-21 15:48:04-info: asset(E:\CreatorProject\Block3dDemo\assets\prefab\Bullet.prefab) saved

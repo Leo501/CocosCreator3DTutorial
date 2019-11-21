@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "12a92753-d5f8-4b64-86a5-12cce0fe8d92",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Movement.ts",
+    "importAsPlugin": false
+  }
+}

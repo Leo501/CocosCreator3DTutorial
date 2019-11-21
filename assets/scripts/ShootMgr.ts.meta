@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a0be8f8c-9a1f-431e-a7bd-be9d438613ca",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ShootMgr.ts",
+    "importAsPlugin": false
+  }
+}

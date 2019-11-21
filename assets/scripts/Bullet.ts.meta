@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9bccb48a-ed8c-4097-b722-c5fca48ebbd7",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Bullet.ts",
+    "importAsPlugin": false
+  }
+}
